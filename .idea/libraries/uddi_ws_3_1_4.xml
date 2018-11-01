@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uddi-ws-3.1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/org/apache/juddi/uddi-ws/3.1.4/uddi-ws-3.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

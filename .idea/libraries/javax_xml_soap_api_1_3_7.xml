@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.xml.soap-api-1.3.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/javax/xml/soap/javax.xml.soap-api/1.3.7/javax.xml.soap-api-1.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jaxws-rt-2.2.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/com/sun/xml/ws/jaxws-rt/2.2.10/jaxws-rt-2.2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

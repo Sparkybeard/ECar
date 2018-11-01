@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uddi-naming-1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/pt/ulisboa/tecnico/sdis/uddi-naming/1.2.0/uddi-naming-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

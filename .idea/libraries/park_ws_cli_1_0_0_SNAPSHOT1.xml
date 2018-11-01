@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="park-ws-cli-1.0.0-SNAPSHOT1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/com/ecar/T04/park-ws-cli/1.0.0-SNAPSHOT/park-ws-cli-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

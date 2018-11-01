@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jaxb-impl-2.2.10-b140802.1033">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/com/sun/xml/bind/jaxb-impl/2.2.10-b140802.1033/jaxb-impl-2.2.10-b140802.1033.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

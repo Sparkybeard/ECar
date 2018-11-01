@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-configuration-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

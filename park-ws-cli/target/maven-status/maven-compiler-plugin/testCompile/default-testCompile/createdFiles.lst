@@ -1,0 +1,6 @@
+com/ecar/park/ws/it/ReturnCarIT.class
+com/ecar/park/ws/it/GetStatsIT.class
+com/ecar/park/ws/it/GetInfoIT.class
+com/ecar/park/ws/it/BaseIT.class
+com/ecar/park/ws/it/PingIT.class
+com/ecar/park/ws/it/RentCarIT.class

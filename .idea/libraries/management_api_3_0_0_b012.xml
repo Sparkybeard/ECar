@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="management-api-3.0.0-b012">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

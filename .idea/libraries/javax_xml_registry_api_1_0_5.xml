@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.xml.registry-api-1.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/javax/xml/registry/javax.xml.registry-api/1.0.5/javax.xml.registry-api-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

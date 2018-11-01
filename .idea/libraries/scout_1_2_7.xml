@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scout-1.2.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/org/apache/juddi/scout/scout/1.2.7/scout-1.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

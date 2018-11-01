@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jaxws-api-2.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/park-ws-cli/target/appassembler/repo/javax/xml/ws/jaxws-api/2.2.11/jaxws-api-2.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
